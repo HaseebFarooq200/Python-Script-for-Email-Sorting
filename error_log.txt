@@ -1,0 +1,101 @@
+2024-09-23 17:55:21.509579 - Unexpected error: 'charmap' codec can't encode characters in position 146-147: character maps to <undefined>
+2024-09-23 17:56:32.550740 - Unexpected error: 'charmap' codec can't encode characters in position 146-147: character maps to <undefined>
+2024-09-23 18:00:26.123428 - Unexpected error: 'charmap' codec can't encode characters in position 146-147: character maps to <undefined>
+2024-09-23 18:44:57.476673 - Unexpected error: 'charmap' codec can't encode characters in position 146-147: character maps to <undefined>
+2024-09-23 19:13:52.351551 - Unexpected error: 'charmap' codec can't encode characters in position 146-147: character maps to <undefined>
+2024-09-23 19:17:08.643350 - Unexpected error: 'charmap' codec can't encode characters in position 146-147: character maps to <undefined>
+2024-09-23 19:19:07.928594 - Unexpected error: 'charmap' codec can't encode characters in position 146-147: character maps to <undefined>
+2024-09-23 19:20:16.963683 - Unexpected error: 'charmap' codec can't encode characters in position 146-147: character maps to <undefined>
+2024-09-23 19:28:45.809438 - Unexpected error: 'charmap' codec can't encode characters in position 146-147: character maps to <undefined>
+2024-09-23 19:30:36.391215 - Unexpected error: 'charmap' codec can't encode characters in position 146-147: character maps to <undefined>
+2024-09-23 19:31:33.114540 - Unexpected error: 'charmap' codec can't encode characters in position 146-147: character maps to <undefined>
+2024-09-23 19:32:23.519763 - Unexpected error: 'charmap' codec can't encode characters in position 146-147: character maps to <undefined>
+2024-09-23 23:51:31.702566 - Unexpected error: 'charmap' codec can't encode characters in position 146-147: character maps to <undefined>
+2024-09-24 00:35:29.952479 - Unexpected error: 'charmap' codec can't encode characters in position 146-147: character maps to <undefined>
+2024-09-24 00:43:08.653725 - Unexpected error: 'charmap' codec can't encode characters in position 146-147: character maps to <undefined>
+2024-09-24 01:06:38.129341 - Unexpected error: 'charmap' codec can't encode characters in position 146-147: character maps to <undefined>
+2024-09-24 01:12:13.489141 - Unexpected error: 'charmap' codec can't encode characters in position 146-147: character maps to <undefined>
+2024-09-24 01:35:43.188627 - Unexpected error: 'charmap' codec can't encode characters in position 146-147: character maps to <undefined>
+2024-09-24 01:37:41.100773 - Unexpected error: 'charmap' codec can't encode characters in position 146-147: character maps to <undefined>
+2024-09-24 01:38:17.191637 - Unexpected error: 'charmap' codec can't encode characters in position 146-147: character maps to <undefined>
+2024-09-24 01:41:34.654135 - Unexpected error: 'charmap' codec can't encode characters in position 146-147: character maps to <undefined>
+2024-09-24 01:42:30.816640 - Unexpected error: 'charmap' codec can't encode characters in position 146-147: character maps to <undefined>
+2024-09-24 01:45:46.529755 - Unexpected error: 'charmap' codec can't encode characters in position 146-147: character maps to <undefined>
+2024-09-24 01:47:05.990765 - Unexpected error: 'charmap' codec can't encode characters in position 146-147: character maps to <undefined>
+2024-09-24 01:53:47.175615 - Unexpected error: 'charmap' codec can't encode characters in position 146-147: character maps to <undefined>
+2024-09-24 12:34:04.581790 - Unexpected error: 'int' object has no attribute 'decode'
+2024-09-24 12:37:35.042458 - Unexpected error: 'int' object has no attribute 'decode'
+2024-09-24 12:38:51.288878 - Unexpected error: 'utf-8' codec can't decode byte 0xa0 in position 43: invalid start byte
+2024-09-24 12:38:53.937815 - Unexpected error: 'utf-8' codec can't decode byte 0xa0 in position 278: invalid start byte
+2024-09-24 14:12:38.872816 - Unexpected error: 'int' object has no attribute 'decode'
+2024-09-24 14:12:40.308651 - Unexpected error: 'int' object has no attribute 'decode'
+2024-09-24 14:12:42.320931 - Unexpected error: 'int' object has no attribute 'decode'
+2024-09-24 14:12:47.598824 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-24 14:12:47.909211 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-24 14:12:48.419791 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-24 14:12:48.873253 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-24 14:12:49.322233 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-24 14:12:49.639985 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-24 14:12:50.051734 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-24 14:12:50.409980 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-24 14:12:50.716949 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-24 14:12:51.033656 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-24 14:12:51.350149 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-24 14:12:51.665924 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-24 14:12:51.982360 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-24 14:12:52.293717 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-24 14:12:52.606336 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-24 14:12:52.953393 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-24 14:12:53.258572 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-24 14:12:53.588720 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-24 14:12:53.901923 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-24 14:12:54.223882 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-24 16:25:23.026111 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-24 16:25:23.376892 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-24 16:25:23.697766 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-24 16:25:24.030330 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-24 16:25:24.398494 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-24 16:25:24.766301 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-24 16:25:25.123280 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-24 16:25:25.477404 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-24 16:25:25.888439 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-24 16:25:26.219391 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-24 16:25:26.536150 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-24 16:25:26.932397 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-24 23:28:23.543233 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-24 23:28:23.855918 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-24 23:28:24.199638 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-24 23:28:24.518872 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-24 23:28:24.831518 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-24 23:28:25.137373 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-24 23:28:25.675728 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-24 23:28:26.004174 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-24 23:28:26.336441 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-24 23:28:26.777499 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-24 23:28:27.370939 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-24 23:28:27.745932 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-24 23:28:28.134095 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-24 23:28:28.534589 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-24 23:28:28.902849 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-24 23:28:29.281349 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-25 12:48:39.210557 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-25 12:48:39.507336 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-25 12:48:39.803689 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-25 12:48:40.085160 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-25 13:29:25.481085 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-25 13:29:26.541594 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-25 13:29:26.916230 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-25 13:29:27.260919 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-25 13:29:27.579316 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-25 13:29:27.916713 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-25 13:29:28.260624 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-25 13:29:28.604041 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-25 13:29:28.924220 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-25 13:29:29.366974 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-25 13:29:29.962679 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-25 13:29:30.299868 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-25 13:29:31.268988 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-25 13:29:31.870769 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-25 13:29:32.510337 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-25 13:29:33.172324 - Unexpected error: 'NoneType' object is not subscriptable
+2024-09-25 13:29:33.516624 - Unexpected error: 'NoneType' object is not subscriptable
